@@ -6,7 +6,7 @@ entries:
     created: "2023-03-06T09:07:50.141853+02:00"
     description: Operator to maintain kafka schemas via CRD
     digest: 1dfc372041d487e24278f34aced7f51c5e74dfc7dd46e00839930368bdfe9ef0
-    name: kafka-schema-operator
+    name: pannoi/kafka-schema-operator
     type: application
     urls:
     - kafka-schema-operator-0.1.0.tgz
