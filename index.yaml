@@ -3,12 +3,12 @@ entries:
   kafka-schema-operator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-29T16:20:43.477745+03:00"
+    created: "2023-03-29T16:21:40.961325+03:00"
     description: Operator to maintain kafka schemas via CRD
-    digest: a87df6a17eb16cbf276ba2d749ecd0aac8dee185ef6ffaaa50100e26c4e728ec
+    digest: 388f7e4fe3167ce8894ee844aedb242f53f2b74363bef1dd4c648d2553857b36
     name: kafka-schema-operator
     type: application
     urls:
     - kafka-schema-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-29T16:20:43.476176+03:00"
+generated: "2023-03-29T16:21:40.959911+03:00"
